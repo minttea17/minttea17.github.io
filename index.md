@@ -1,4 +1,5 @@
-> Анонимные письма в каждый карман -> [Note it the bottle](https://t.me/noteinthebottle)
+> Анонимные письма в каждый карман -> [Note in the bottle](https://t.me/noteinthebottle)  
+> Общая шахматная доска -> [Chess Party](https://t.me/chesspartych)
 
 ### Вы и так прекрасно знаете, чей это блог. 
 > Электронная почта: minttea17@tutanota.com  
