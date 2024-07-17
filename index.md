@@ -1,5 +1,4 @@
 > Анонимные письма в каждый карман -> [Note in the bottle](https://t.me/noteinthebottle)  
-> Общая шахматная доска -> [Chess Party](https://t.me/chesspartych)
 
 ### Вы и так прекрасно знаете, чей это блог. 
 > Электронная почта: minttea17@tutanota.com  
@@ -7,6 +6,10 @@ XMPP: 4p6e0@404.city
 > [Status](https://join.status.im/u/0x04e6a912372a681ae8683ee030b2a6baea057520812110070be5f5213559e1af0f4dfeb3c920cbfe35f1e8825d0599a7d7fd31866f8c7e829c22d09b45fc3780a0)
 
 ### Тексты
+[12 июля 2024 - Как сделать mini apps по-настоящему безопасными](/120724)  
+[1 июля 2024 - Такая разная](/010724)  
+[11 июня 2024 - WWDC 24 - Some notes](/110624)  
+[6 июня 2024 - Portable computing](/060624)  
 [25 мая 2024 - X is secure, but not magic.](/250524)  
 [15 мая 2024 - Понять интернет раз и навсегда (в журнале Uncertainty)](/150524)  
 [20 апреля 2024 - Герой нашего времени](/200424)  
@@ -20,4 +23,4 @@ XMPP: 4p6e0@404.city
 [27 октября 2023 - Как реформировать школу?](/271023)  
 [7 октября 2023 - Мысли про личные границы в цифровую эпоху](/071023)
 
-Text is available under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+Text is available under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). 16+
